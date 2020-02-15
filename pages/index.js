@@ -28,7 +28,7 @@ export default function Index() {
   `}</style>
   <div>
     <header>
-    <img src={nextaddImage} alt='display' id='displyImage' />
+    <img src={ nextaddImage } alt='display' id='displyImage' />
 
     </header>
   </div>
