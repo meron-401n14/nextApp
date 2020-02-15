@@ -1,3 +1,9 @@
+.next
+node_modules
+*.log
+out
+.DS_Store
+
 # 401 JS
 db
 .env
